@@ -1,4 +1,4 @@
-# Clasificacion de Opiniones - PLN
+# Clasificación de Opiniones - PLN
 Dentro del código se implementaron los archivos de entrenamiento y prueba,
 luego se analizaron sus datos para determinar si contenían valores vacíos
 (null), pero no se encontró ninguno. Luego de esto se generó un archivo de
